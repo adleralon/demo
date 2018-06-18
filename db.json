@@ -1,5 +1,5 @@
 {
-  "data": "[
+  "data": [
 	[
 	  null,
 	  "8c1b212f-2671-440d-a257-ab765f96fcbc",
@@ -18,7 +18,7 @@
 	  "04/11/2014",
 	  "13/02/2017"
 	 ] 
-  ]",
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
